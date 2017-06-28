@@ -1,0 +1,114 @@
+epoch=0, cost=0.134784, percError=51.920000, minPE=51.920000
+epoch=1000, cost=0.062800, percError=35.440000, minPE=21.880000
+epoch=2000, cost=0.043690, percError=29.560000, minPE=11.160000
+epoch=3000, cost=0.039762, percError=28.200000, minPE=7.560000
+epoch=4000, cost=0.020808, percError=20.400000, minPE=6.000000
+epoch=5000, cost=0.007589, percError=12.320000, minPE=5.400000
+epoch=6000, cost=0.007057, percError=11.880000, minPE=4.560000
+epoch=7000, cost=0.007838, percError=12.520000, minPE=4.560000
+epoch=8000, cost=0.012044, percError=15.520000, minPE=4.560000
+epoch=9000, cost=0.007788, percError=12.480000, minPE=4.560000
+epoch=10000, cost=0.003362, percError=8.200000, minPE=4.560000
+epoch=11000, cost=0.006821, percError=11.680000, minPE=4.480000
+epoch=12000, cost=0.002679, percError=7.320000, minPE=4.480000
+epoch=13000, cost=0.006821, percError=11.680000, minPE=4.480000
+epoch=14000, cost=0.004724, percError=9.720000, minPE=4.080000
+epoch=15000, cost=0.004418, percError=9.400000, minPE=4.080000
+epoch=16000, cost=0.001848, percError=6.080000, minPE=4.080000
+epoch=17000, cost=0.002422, percError=6.960000, minPE=3.960000
+epoch=18000, cost=0.005202, percError=10.200000, minPE=3.960000
+epoch=19000, cost=0.002394, percError=6.920000, minPE=3.960000
+epoch=20000, cost=0.005040, percError=10.040000, minPE=3.960000
+epoch=21000, cost=0.001590, percError=5.640000, minPE=3.960000
+epoch=22000, cost=0.001458, percError=5.400000, minPE=3.960000
+epoch=23000, cost=0.006227, percError=11.160000, minPE=3.960000
+epoch=24000, cost=0.007540, percError=12.280000, minPE=3.960000
+epoch=25000, cost=0.001824, percError=6.040000, minPE=3.960000
+epoch=26000, cost=0.008039, percError=12.680000, minPE=3.960000
+epoch=27000, cost=0.005534, percError=10.520000, minPE=3.680000
+epoch=28000, cost=0.002980, percError=7.720000, minPE=3.680000
+epoch=29000, cost=0.001415, percError=5.320000, minPE=3.680000
+epoch=30000, cost=0.002828, percError=7.520000, minPE=3.680000
+epoch=31000, cost=0.004306, percError=9.280000, minPE=3.680000
+epoch=32000, cost=0.003200, percError=8.000000, minPE=3.640000
+epoch=33000, cost=0.005040, percError=10.040000, minPE=3.640000
+epoch=34000, cost=0.003494, percError=8.360000, minPE=3.640000
+epoch=35000, cost=0.005202, percError=10.200000, minPE=3.640000
+epoch=36000, cost=0.002888, percError=7.600000, minPE=3.640000
+epoch=37000, cost=0.002828, percError=7.520000, minPE=3.640000
+epoch=38000, cost=0.003698, percError=8.600000, minPE=3.640000
+epoch=39000, cost=0.002949, percError=7.680000, minPE=3.640000
+epoch=40000, cost=0.004232, percError=9.200000, minPE=3.640000
+epoch=41000, cost=0.001659, percError=5.760000, minPE=3.640000
+epoch=42000, cost=0.001752, percError=5.920000, minPE=3.640000
+epoch=43000, cost=0.002231, percError=6.680000, minPE=3.640000
+epoch=44000, cost=0.002650, percError=7.280000, minPE=3.640000
+epoch=45000, cost=0.003664, percError=8.560000, minPE=3.640000
+epoch=46000, cost=0.003428, percError=8.280000, minPE=3.640000
+epoch=47000, cost=0.001972, percError=6.280000, minPE=3.640000
+epoch=48000, cost=0.002738, percError=7.400000, minPE=3.640000
+epoch=49000, cost=0.001897, percError=6.160000, minPE=3.640000
+epoch=50000, cost=0.002478, percError=7.040000, minPE=3.640000
+epoch=51000, cost=0.002679, percError=7.320000, minPE=3.640000
+epoch=52000, cost=0.002768, percError=7.440000, minPE=3.640000
+epoch=53000, cost=0.001415, percError=5.320000, minPE=3.640000
+epoch=54000, cost=0.001568, percError=5.600000, minPE=3.640000
+epoch=55000, cost=0.005040, percError=10.040000, minPE=3.640000
+epoch=56000, cost=0.004802, percError=9.800000, minPE=3.640000
+epoch=57000, cost=0.003011, percError=7.760000, minPE=3.640000
+epoch=58000, cost=0.001352, percError=5.200000, minPE=3.640000
+epoch=59000, cost=0.001997, percError=6.320000, minPE=3.640000
+epoch=60000, cost=0.001311, percError=5.120000, minPE=3.640000
+epoch=61000, cost=0.003073, percError=7.840000, minPE=3.640000
+epoch=62000, cost=0.002074, percError=6.440000, minPE=3.640000
+epoch=63000, cost=0.005618, percError=10.600000, minPE=3.640000
+epoch=64000, cost=0.001729, percError=5.880000, minPE=3.640000
+epoch=65000, cost=0.001636, percError=5.720000, minPE=3.640000
+epoch=66000, cost=0.003232, percError=8.040000, minPE=3.640000
+epoch=67000, cost=0.002888, percError=7.600000, minPE=3.640000
+epoch=68000, cost=0.001458, percError=5.400000, minPE=3.640000
+epoch=69000, cost=0.002339, percError=6.840000, minPE=3.640000
+epoch=70000, cost=0.003136, percError=7.920000, minPE=3.640000
+epoch=71000, cost=0.001824, percError=6.040000, minPE=3.640000
+epoch=72000, cost=0.001076, percError=4.640000, minPE=3.640000
+epoch=73000, cost=0.003698, percError=8.600000, minPE=3.640000
+epoch=74000, cost=0.003596, percError=8.480000, minPE=3.640000
+epoch=75000, cost=0.001613, percError=5.680000, minPE=3.640000
+epoch=76000, cost=0.003837, percError=8.760000, minPE=3.640000
+epoch=77000, cost=0.002022, percError=6.360000, minPE=3.640000
+epoch=78000, cost=0.002535, percError=7.120000, minPE=3.640000
+epoch=79000, cost=0.001568, percError=5.600000, minPE=3.640000
+epoch=80000, cost=0.003872, percError=8.800000, minPE=3.640000
+epoch=81000, cost=0.003232, percError=8.040000, minPE=3.640000
+epoch=82000, cost=0.001546, percError=5.560000, minPE=3.640000
+epoch=83000, cost=0.003232, percError=8.040000, minPE=3.640000
+epoch=84000, cost=0.002022, percError=6.360000, minPE=3.640000
+epoch=85000, cost=0.002285, percError=6.760000, minPE=3.640000
+epoch=86000, cost=0.002074, percError=6.440000, minPE=3.640000
+epoch=87000, cost=0.001613, percError=5.680000, minPE=3.640000
+epoch=88000, cost=0.001752, percError=5.920000, minPE=3.640000
+epoch=89000, cost=0.003200, percError=8.000000, minPE=3.640000
+epoch=90000, cost=0.003042, percError=7.800000, minPE=3.640000
+epoch=91000, cost=0.001524, percError=5.520000, minPE=3.640000
+epoch=92000, cost=0.003395, percError=8.240000, minPE=3.640000
+epoch=93000, cost=0.001480, percError=5.440000, minPE=3.640000
+epoch=94000, cost=0.002126, percError=6.520000, minPE=3.640000
+epoch=95000, cost=0.001752, percError=5.920000, minPE=3.640000
+epoch=96000, cost=0.002231, percError=6.680000, minPE=3.640000
+epoch=97000, cost=0.003872, percError=8.800000, minPE=3.640000
+epoch=98000, cost=0.002312, percError=6.800000, minPE=3.640000
+epoch=99000, cost=0.002679, percError=7.320000, minPE=3.640000
+epoch=99999, cost=0.002074, percError=6.440000, minPE=3.640000
+--------------------
+lay[6:2,30,40,40,30,1] sca[0.10] mom[0.6] bat[1] epo[100000] folds[4] 
+Training time: 7948.286197
+-----------------------------------
+Now validating
+Validating time: 0.450172
+-----------------------------------
+cicle 0x0 ending time: 7951.151685
+-----------------------------------
+-----------------------------------
+Total Time: 7951.151715
+======================
+
