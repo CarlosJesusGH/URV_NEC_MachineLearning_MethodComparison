@@ -10,7 +10,7 @@ Compare the classification results with the following algorithms:
 ### Data
 * File: 
 	- Training: ring-separable.txt, ring-merged.txt
-	![alt text](http://www.planwallpaper.com/static/images/canberra_hero_image_JiMVvYU.jpg)
+	![alt text](https://github.com/CarlosJesusGH/URV_NEC_MachineLearning_MethodComparison/blob/master/screenshot/Screenshot%20from%202017-06-28%2010-24-29.png?raw=true)
 	- Test: ring-test.txt
 * Columns: 2 variables, 1 value to predict
     - Variables:
